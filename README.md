@@ -1,4 +1,4 @@
- /># Healthcare-Analytics-Dashboard-Power-BI-Project
+ **Healthcare-Analytics-Dashboard-Power-BI-Project**
 Power BI dashboard analyzing hospital patient flow, bed utilization &amp; billing (PDF &amp; screenshots) as my learning project
 
 **Overview**  
@@ -41,6 +41,7 @@ Open `Healthcare Project Dashboard.pbix` in Power BI Desktop to explore interact
 **Contact**
 Sakshi Upadhyay  
 LinkedIn:https://www.linkedin.com/in/sakshiupadhyayofficial
+
 Email: <upadhyaysakshi93@gmail.com>
 
 ---
