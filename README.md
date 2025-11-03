@@ -40,6 +40,9 @@ Interactive Power BI dashboard analyzing hospital patient flow, diagnosis mix, b
 **Usage**
 Open `Healthcare Project Dashboard.pbix` in Power BI Desktop to explore interactive visuals. Use the slicer for Patient_ID to drill into patient-level records. Screenshots & PDF included for quick preview.
 
+**Screenshots**
+
+
 **Contact :**
 Sakshi Upadhyay  
 LinkedIn:https://www.linkedin.com/in/sakshiupadhyayofficial
