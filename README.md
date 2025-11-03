@@ -1,4 +1,4 @@
- **Healthcare-Analytics-Dashboard-Power-BI-Project**
+ #Healthcare-Analytics-Dashboard-Power-BI-Project
  
 Power BI dashboard analyzing hospital patient flow, bed utilization &amp; billing (PDF &amp; screenshots) as my learning project
 
