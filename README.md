@@ -12,7 +12,8 @@ Interactive Power BI dashboard analyzing hospital patient flow, diagnosis mix, b
 - **Bed occupancy:** Private 3,579 | General 2,385 | ICU 1,193  
 - **Top revenue contributors:** Viral Infection (₹53.4M), Flu (₹45.8M)
 
-**Files included(to view click on screenshot files)**
+**Files included(to view click on screenshot files):**
+
  (1)Full dashboard overview -
    Gives the full top-level hospital patient performance view at a glance with all major KPIs and visuals in one frame.  
  (2) Bed occupancy insight -
