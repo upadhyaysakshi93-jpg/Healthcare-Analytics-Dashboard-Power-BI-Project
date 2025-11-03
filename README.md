@@ -14,16 +14,16 @@ Interactive Power BI dashboard analyzing hospital patient flow, diagnosis mix, b
 
 **Files included(to view click on screenshot files):**
 
- (1)Full dashboard overview -
-   Gives the full top-level hospital patient performance view at a glance with all major KPIs and visuals in one frame.  
+ (1) Full dashboard overview -
+   Gives the full top-level hospital patient performance view at a glance with all major KPIs and visuals in one frame.    
  (2) Bed occupancy insight -
-   Shows how beds are utilized across Private, General, and ICU categories highlighting where patient load is highest.
+   Shows how beds are utilized across Private, General, and ICU categories highlighting where patient load is highest.  
  (3) Diagnosis distribution -
-   Breaks down disease distribution to reveal which diagnoses contribute most to patient volume.
+   Breaks down disease distribution to reveal which diagnoses contribute most to patient volume.  
  (4) Billing vs Insurance trend -
-   Displays total billing trends along with insurance share to understand financial impact and cost coverage.
+   Displays total billing trends along with insurance share to understand financial impact and cost coverage.  
  (5) KPI tiles -
-   Presents the core KPI tiles including average length of stay, billing amount, and follow-up metrics for quick decision   reference.
+   Presents the core KPI tiles including average length of stay, billing amount, and follow-up metrics for quick decision     reference.
    
 **Insights**
 - Insurance covers approx **90%** of all billing, reducing direct out-of-pocket patient burden
