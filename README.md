@@ -12,6 +12,16 @@ This dashboard enables decision makers to track patient admissions, costs, diagn
 Contains: Patient ID, Admit/Discharge Dates, Bed Type, Diagnosis, Billing Amount, Insurance Amount, Follow-up Dates etc.  
 During cleaning, invalid follow-up year values were corrected and normalized.
 
+## Key Business Questions Answered Through This Dashboard
+This dashboard provides actionable insights for multiple operational decision areas:
+
+1) **Patient-Level Snapshot** — Identify clinical journey for individual patient using Patient_ID slicer (admit date, discharge date, follow-up date).  
+2) **Billing Intelligence** — Understand total billing generated, insurance dependency and cost burden per diagnosis.  
+3) **Bed Occupancy Breakdown** — Evaluate distribution of Private, General & ICU beds for optimizing capacity planning.  
+4) **Doctor Feedback Summary** — View patient satisfaction feedback aggregated for doctors to analyze care quality trend.  
+5) **Diagnosis Pattern Statistics** — Identify highest occurring diagnoses and their contribution to volume and revenue.  
+6) **Billing vs Insurance Pattern** — Compare total billed amount vs insurance coverage trends over time to analyze financial structure and risk exposure.
+   
 ## Key insights
 - **Avg Length of Stay:** ≈ 8.25 days  
 - **Total billing:** ₹190M+ (Insurance covers ≈ 90%)  
@@ -20,7 +30,7 @@ During cleaning, invalid follow-up year values were corrected and normalized.
 - **Top revenue contributors:** Viral Infection (₹53.4M), Flu (₹45.8M)
 - Insurance covers approx **90%** of all billing, reducing direct out-of-pocket patient burden
  
-**Files included(to view click on screenshot files):**
+**Files included(to view click on images folder):**
 
  (1) Full dashboard overview -
    Gives the full top-level hospital patient performance view at a glance with all major KPIs and visuals in one frame.    
@@ -52,7 +62,7 @@ Private beds are the most utilized suggesting pressure on private bed capacity a
 
 ## Contact :
 Sakshi Upadhyay  
-LinkedIn:https://www.linkedin.com/in/sakshiupadhyayofficial
+LinkedIn: https://www.linkedin.com/in/sakshiupadhyayofficial
 
 Email: <upadhyaysakshi93@gmail.com>
 
