@@ -1,4 +1,4 @@
- ##Healthcare-Analytics-Dashboard-Power-BI-Project
+ ## Healthcare-Analytics-Dashboard-Power-BI-Project
  
 Power BI dashboard analyzing hospital patient flow, bed utilization &amp; billing (PDF &amp; screenshots) as my learning project
 
@@ -12,7 +12,7 @@ This dashboard enables decision makers to track patient admissions, costs, diagn
 Contains: Patient ID, Admit/Discharge Dates, Bed Type, Diagnosis, Billing Amount, Insurance Amount, Follow-up Dates etc.  
 During cleaning, invalid follow-up year values were corrected and normalized.
 
-**Key insights**
+## Key insights
 - **Avg Length of Stay:** ≈ 8.25 days  
 - **Total billing:** ₹190M+ (Insurance covers ≈ 90%)  
 - **Top diagnoses:** Viral Infection (2,004), Flu (1,717), Malaria (1,431)  
