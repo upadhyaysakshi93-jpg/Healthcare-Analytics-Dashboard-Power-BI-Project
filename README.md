@@ -1,17 +1,25 @@
- **Healthcare-Analytics-Dashboard-Power-BI-Project**
+ ##Healthcare-Analytics-Dashboard-Power-BI-Project
  
 Power BI dashboard analyzing hospital patient flow, bed utilization &amp; billing (PDF &amp; screenshots) as my learning project
 
 **Overview**  
 Interactive Power BI dashboard analyzing hospital patient flow, diagnosis mix, bed utilization and billing vs insurance. Built from an instructor sample dataset (7000+ records) and enhanced with custom theme, DAX measures and UX-focused layout.
 
+## Business Problem / Objective
+Hospitals struggle to monitor patient flow, diagnosis mix, billing patterns and bed utilization from a single analytical view.  
+This dashboard enables decision makers to track patient admissions, costs, diagnosis trends, length of stay and insurance dependency to support better operational efficiency.  
+**Dataset Description**
+Contains: Patient ID, Admit/Discharge Dates, Bed Type, Diagnosis, Billing Amount, Insurance Amount, Follow-up Dates etc.  
+During cleaning, invalid follow-up year values were corrected and normalized.
+
 **Key insights**
 - **Avg Length of Stay:** ≈ 8.25 days  
 - **Total billing:** ₹190M+ (Insurance covers ≈ 90%)  
 - **Top diagnoses:** Viral Infection (2,004), Flu (1,717), Malaria (1,431)  
-- **Bed occupancy:** Private 3,579 | General 2,385 | ICU 1,193  
+- **Bed occupancy:** Private 3,579 > General 2,385 > ICU 1,193  
 - **Top revenue contributors:** Viral Infection (₹53.4M), Flu (₹45.8M)
-
+- Insurance covers approx **90%** of all billing, reducing direct out-of-pocket patient burden
+- 
 **Files included(to view click on screenshot files):**
 
  (1) Full dashboard overview -
@@ -25,12 +33,6 @@ Interactive Power BI dashboard analyzing hospital patient flow, diagnosis mix, b
  (5) KPI tiles -
    Presents the core KPI tiles including average length of stay, billing amount, and follow-up metrics for quick decision     reference.
    
-**Insights**
-- Insurance covers approx **90%** of all billing, reducing direct out-of-pocket patient burden
-- Viral Infection & Flu together contribute **~52%+** of total revenue volume
-- Private beds have the highest occupancy (3,579) compared to General (2,385) and ICU (1,193)
-- Avg length of stay ~8.25 days indicates moderate recovery window with consistent treatment cycles
-
 
 
 **How it was built**
@@ -39,6 +41,14 @@ Interactive Power BI dashboard analyzing hospital patient flow, diagnosis mix, b
 
 **Usage**
 Open `Healthcare Project Dashboard.pbix` in Power BI Desktop to explore interactive visuals. Use the slicer for Patient_ID to drill into patient-level records. Screenshots & PDF included for quick preview.
+
+## Conclusions
+Insurance providers cover a major share of total billing (~90%), reducing patient OOP expense.  
+Viral Infection & Flu together contribute to over 50% of patient volume and majority of revenue impact.  
+Private beds are the most utilized suggesting pressure on private bed capacity allocation.
+
+## Future Work
+- Add outcome scoring and patient satisfaction metrics layer
 
 **Contact :**
 Sakshi Upadhyay  
