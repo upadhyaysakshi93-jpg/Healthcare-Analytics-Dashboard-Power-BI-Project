@@ -19,7 +19,7 @@ During cleaning, invalid follow-up year values were corrected and normalized.
 - **Bed occupancy:** Private 3,579 > General 2,385 > ICU 1,193  
 - **Top revenue contributors:** Viral Infection (₹53.4M), Flu (₹45.8M)
 - Insurance covers approx **90%** of all billing, reducing direct out-of-pocket patient burden
-- 
+ 
 **Files included(to view click on screenshot files):**
 
  (1) Full dashboard overview -
@@ -50,7 +50,7 @@ Private beds are the most utilized suggesting pressure on private bed capacity a
 ## Future Work
 - Add outcome scoring and patient satisfaction metrics layer
 
-**Contact :**
+## Contact :
 Sakshi Upadhyay  
 LinkedIn:https://www.linkedin.com/in/sakshiupadhyayofficial
 
